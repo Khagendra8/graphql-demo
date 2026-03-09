@@ -1,7 +1,7 @@
 # graphql-demo
 
 graphql-demo
-
+use this endpoint to access graphql = http://localhost:8080/graphql
 Youtube = https://youtu.be/eD-1KTK7fGc
 
 access graphql from browser = http://localhost:8080/graphiql?path=/graphiql
